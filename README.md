@@ -15,7 +15,7 @@ Fremont.
 #How to Run
 1. Make sure you have Python Installed
 2. Install pandas(if not already):
-     #in termials, print below
-     pip install pandas
+     #in termials, print 
+     'pip install pandas'
 3. Run the script
 4. View the printed analysis resulted in your terminal
