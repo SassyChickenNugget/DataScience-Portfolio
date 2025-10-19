@@ -1,10 +1,10 @@
 #Silicon Valley House Price Analysis
 This is a simple data science project that creates a small dataset of housing prices for five cities:
-San Jose
-Sunnyvale
-Mountain View
-Palo Alto
-Fremont
+San Jose,
+Sunnyvale,
+Mountain View,
+Palo Alto,
+Fremont.
 
 
 #Tools Used
